@@ -1,7 +1,7 @@
-<img align="center"alt="coding" src="https://drive.google.com/file/d/1JDr27nMsQK_Vx5SQKmvqGQxpLM2TYaAX/view?usp=sharing">
+<img align="center"alt="coding" src="[https://drive.google.com/file/d/1JDr27nMsQK_Vx5SQKmvqGQxpLM2TYaAX/view?usp=sharing](https://github.com/AzfarMahmoodi/AzfarMahmoodi/blob/main/gif.gif)">
 <h1 align="center">Hi 👋, I'm Azfar Mahmoodi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azfarmahmoodi&label=Profile%20views&color=0e75b6&style=flat" alt="azfarmahmoodi" /> </p>
-<img align="right"alt="coding" width="400" src="https://drive.google.com/file/d/1JDr27nMsQK_Vx5SQKmvqGQxpLM2TYaAX/view?usp=drive_link">
+<img align="right"alt="coding" width="400" src="[https://drive.google.com/file/d/1JDr27nMsQK_Vx5SQKmvqGQxpLM2TYaAX/view?usp=drive_link](https://github.com/AzfarMahmoodi/AzfarMahmoodi/blob/main/gif.gif)">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azfarmahmoodi" alt="azfarmahmoodi" /></a> </p>
 
 - ⚡ I’m currently learning Data Structures [https://www.codingninjas.com/studio/profile/871f60d9-5251-4468-8a73-44bd86c6a1ea](https://www.codingninjas.com/studio/profile/871f60d9-5251-4468-8a73-44bd86c6a1ea)

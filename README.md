@@ -1,4 +1,4 @@
-<img align="center"alt="coding" src="[https://drive.google.com/file/d/1JDr27nMsQK_Vx5SQKmvqGQxpLM2TYaAX/view?usp=sharing](https://github.com/AzfarMahmoodi/AzfarMahmoodi/blob/main/gif.gif)">
+<img align="center"alt="coding" src="https://github.com/AzfarMahmoodi/AzfarMahmoodi/blob/main/gif.gif">
 <h1 align="center">Hi 👋, I'm Azfar Mahmoodi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azfarmahmoodi&label=Profile%20views&color=0e75b6&style=flat" alt="azfarmahmoodi" /> </p>
 <img align="right"alt="coding" width="400" src="[https://drive.google.com/file/d/1JDr27nMsQK_Vx5SQKmvqGQxpLM2TYaAX/view?usp=drive_link](https://github.com/AzfarMahmoodi/AzfarMahmoodi/blob/main/gif.gif)">

@@ -12,15 +12,12 @@
 
 🔭 I’m currently working on **Backend Development**
 
-🌱 I’m currently learning **Data Structures**
+🌱 I’m currently learning **Data Structures & Algorithms**
 
 📫 You can reach me at **azfarmahmoodi666@gmail.com**
 
 </div>
   </div>
-  
-
-
 
 
 <h2 align="left" color=FFF>🌐 Connect with me:</h2>

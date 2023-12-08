@@ -1,4 +1,3 @@
-
 ![logo](gif.gif)
 <h1 align="center">Hi 👋, I'm Azfar Mahmoodi</h1>
   </h1>
@@ -45,13 +44,38 @@
   </a>
 </p>
 
-
-
 <h2 align="center" color=FFF>📈 Stats </h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azfarmahmoodi&show_icons=true&locale=en&layout=compact" alt="azfarmahmoodi" /></p>
+<p><img align="left" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=azfarmahmoodi&bg_color=0d1117&hide_border=true&title_color=fff&show_icons=true&theme=highcontrast&limit=5&show_icons=true&locale=en&layout=compact" alt="azfarmahmoodi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azfarmahmoodi&show_icons=true&locale=en" alt="azfarmahmoodi" /></p>
+<p>&nbsp;<img align="center"  width="500"src="https://github-readme-stats.vercel.app/api?username=azfarmahmoodi&show_icons=true&bg_color=0d1117&hide_border=true&title_color=fff&show_icons=true&theme=highcontrast&limit=5&locale=en" alt="azfarmahmoodi" /></p>
+<p>&nbsp<img align="center"  width="450" src="https://github-readme-streak-stats.herokuapp.com/?bg_color=0d1117&hide_border=true&title_color=fff&show_icons=true&theme=highcontrast&limit=5&combine_all_yearly_contributions=true&user=azfarmahmoodi&" alt="azfarmahmoodi" /></p>
+
+<p>
+<img  width=780 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzfarMahmoodi&theme=transparent&title_color=fff"/>
+
+<!--- <img  width=1100 src="https://github-readme-activity-graph.vercel.app/graph?username=AzfarMahmoodi&bg_color=0d1117&color=58c6e5&line=58c6e5&point=ffffff&area=true&hide_border=true"/> --->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azfarmahmoodi&" alt="azfarmahmoodi" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azfarmahmoodi" alt="azfarmahmoodi" /></a> </p>
+</p>
+
+
+
+
+<!--- <img  width=365 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzfarMahmoodi&theme=transparent&exclude=exclude"/> ---> 
+<!---<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzfarMahmoodi&theme=transparent&exclude=exclude"/> ---> 
+<!---<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AzfarMahmoodi&theme=transparent&utcOffset=utcOffset"/>---> 
+
+<!--- <img src="https://github-readme-stats-git-addprogressrankicon-rickstaa.vercel.app/api?username=AzfarMahmoodi&rank_icon=progress" /> ---> 
+
+<!---  <img width=500  src="https://github-contributor-stats.vercel.app/api?username=AzfarMahmoodi&bg_color=0d1117&hide_border=true&title_color=fff&show_icons=true&theme=highcontrast&limit=5&combine_all_yearly_contributions=true" alt="azfarmahmoodi" /> 
+
+<!--- ![](https://github-contributor-stats.vercel.app/api?username=AzfarMahmoodi&limit=5&theme=dark&combine_all_yearly_contributions=true) --->
+
+
+<!--- <img  src="https://github-readme-activity-graph.vercel.app/graph?username=AzfarMahmoodi&bg_color=0d1117&color=ea89f0&line=fd8aff&point=ffffff&area=true&hide_border=true"/> pink --->
+
+<!---<img  src="https://github-readme-activity-graph.vercel.app/graph?username=AzfarMahmoodi&bg_color=0d1117&color=ffffff&line=26a641&point=ffffff&area=true&hide_border=true"/> green--->
+
+
+
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azfarmahmoodi" alt="azfarmahmoodi" /></a> </p>

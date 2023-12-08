@@ -42,6 +42,7 @@
     <img src="https://skillicons.dev/icons?i=r,github" />
 <!--     <img src="https://skillicons.dev/icons?i=vscode,r,gcp,vercel,github,git" /> -->
   </a>
+  <br>
 </p>
 
 <h2 align="center" color=FFF>📈 Stats </h2>
@@ -76,6 +77,6 @@
 
 <!---<img  src="https://github-readme-activity-graph.vercel.app/graph?username=AzfarMahmoodi&bg_color=0d1117&color=ffffff&line=26a641&point=ffffff&area=true&hide_border=true"/> green--->
 
-
-
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azfarmahmoodi" alt="azfarmahmoodi" /></a> </p>
+<br>
+<h2> </h2>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azfarmahmoodi" alt="azfarmahmoodi" /></a> </p>

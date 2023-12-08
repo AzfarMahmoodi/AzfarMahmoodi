@@ -45,9 +45,9 @@
 </p>
 
 <h2 align="center" color=FFF>📈 Stats </h2>
-<p><img align="left" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=azfarmahmoodi&bg_color=0d1117&hide_border=true&title_color=fff&show_icons=true&theme=highcontrast&limit=5&show_icons=true&locale=en&layout=compact" alt="azfarmahmoodi" /></p>
+<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=azfarmahmoodi&bg_color=0d1117&hide_border=true&title_color=fff&show_icons=true&theme=highcontrast&limit=5&show_icons=true&locale=en&layout=compact" alt="azfarmahmoodi" /></p>
 
-<p>&nbsp;<img align="center"  width="450"src="https://github-readme-stats.vercel.app/api?username=azfarmahmoodi&show_icons=true&bg_color=0d1117&hide_border=true&title_color=fff&show_icons=true&theme=highcontrast&limit=5&locale=en" alt="azfarmahmoodi" /></p>
+<p>&nbsp;<img align="center"  width="400"src="https://github-readme-stats.vercel.app/api?username=azfarmahmoodi&show_icons=true&bg_color=0d1117&hide_border=true&title_color=fff&show_icons=true&theme=highcontrast&limit=5&locale=en" alt="azfarmahmoodi" /></p>
 <p>&nbsp;<img align="center"  width="450" src="https://github-readme-streak-stats.herokuapp.com/?bg_color=0d1117&hide_border=true&title_color=fff&show_icons=true&theme=highcontrast&limit=5&combine_all_yearly_contributions=true&user=azfarmahmoodi&" alt="azfarmahmoodi" /></p>
 
 <p>

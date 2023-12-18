@@ -76,5 +76,5 @@
 
 <br>
 <h2> </h2>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azfarmahmoodi" alt="azfarmahmoodi" /></a> </p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azfarmahmoodi&theme=onedark" alt="azfarmahmoodi" /></a> </p>
 
